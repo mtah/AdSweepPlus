@@ -1,4 +1,4 @@
-﻿// ==UserScript==
+// ==UserScript==
 // @name AdSweep+
 // @version 1.6.17.2
 // @description AdSweep+ is a continuation of the AdSweep ad-removal utility.
