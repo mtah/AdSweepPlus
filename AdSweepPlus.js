@@ -1,9 +1,10 @@
 ﻿// ==UserScript==
 // @name AdSweep+
-// @description AdSweep+ is a continuation of the AdSweep ad-removal utility.
-// @copyright 2009+ Martin Häger (http://mtah.github.com/AdSweepPlus), 2009 Charles (http://adsweep.org)
-// @namespace http://mtah.github.com/AdSweepPlus
 // @version 1.6.17.2
+// @description AdSweep+ is a continuation of the AdSweep ad-removal utility.
+// @copyright 2009+ the AdSweep+ contributors (see AUTHORS file), 2009 Charles-Andre Landermaine (http://adsweep.org)
+// @license GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
+// @namespace http://mtah.github.com/AdSweepPlus
 // @run-at document-start
 // ==/UserScript==
 
