@@ -1,0 +1,11 @@
+{
+   "autoupdate_url": "http://github.com/mtah/AdSweepPlus/raw/master/updates.xml",
+   "content_scripts": [ {
+      "js": [ "AdSweepPlus.js" ],
+      "matches": [ "http://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "A continuation of the AdSweep ad-removal utility.",
+   "name": "AdSweep+",
+   "version": "1.6.17.2"
+}
