@@ -139,6 +139,7 @@ function adsweep_core(){
 	sites['lifehacker.com']='img[alt$="Shop"],a[href*="amazon"],a[href*="auto-show"],#sidebartopstories ul';
 	sites['linux-mag.com']='#curtain';
 	sites['linuxreaders.com']='[href*="packtpub"],#southsidebar~*';
+	sites['listen.grooveshark.com']='#adBar';
 	sites['live.com']='.sb_adsW,.adB';
 	sites['liveinternet.ru']='[id*="banmain"]';
 	sites['loveplanet.ru']='iframe,[id^="popup_"],#ml_c1763';
@@ -337,6 +338,7 @@ function adsweep_core(){
 	sites_custom_css['groups.google.com']='button[type="button"]{cursor:pointer}';
 	sites_custom_css['guloggratis.dk']='#center_col,#center_col>*{width:100% !important;}, form[name="BBBannersearch728"]{background:#fff}, form[name="BBBannersearch728"]>table{margin:auto !important}';
 	sites_custom_css['iwiw.hu']='#content{width:auto !important; margin-right:10px;}';
+	sites_custom_css['listen.grooveshark.com']='#mainContentWrapper{margin-right:0 !important}';
 	sites_custom_css['nationwide.co.uk']='#promo-container{height:100px}';
 	sites_custom_css['pcwelt.de']='#head_position_absolute{position:relative;top:0;left:6px}';
 	sites_custom_css['record.pt']='body>table:nth-of-type(3)>tbody>tr:last-child>td>table:first-of-type>tbody>tr:last-child>td:first-child{width:100%!important}';
